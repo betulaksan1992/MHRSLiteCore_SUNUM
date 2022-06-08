@@ -15,7 +15,7 @@ Göz bebeğimiz MHRSLite projesinin tüm hakları ben Betül Akşan'a,  103 saba
 - Projenin FrontEnd işlemlerinde HealthTheme isimli hazır tema kullandık.
 - Projeyi 4 katman (Entities,DAL,BLL,,UI) olarak yazdık.
 - Projede UnitOfWork Pattern Design kullandık.
-- Projede hastaların göreceği ana ekranı bulunmaktadır. Hasta sisteme giriş yaptıktan sonra tıpkı MHRS'deki randevu alma adımlarını izleyerek randevu alabilir.
+- Projede hastaların göreceği ana ekran bulunmaktadır. Hasta sisteme giriş yaptıktan sonra tıpkı MHRS'deki randevu alma adımlarını izleyerek randevu alabilir.
 - Projenin Doktorun Hasta Çağırma paneli ve Admin paneli öğrencilere ödev olarak bırakılmıştır.
 
 Ekran resimleri ve kaynak kodlardan bir parça aşağıda görebilirsiniz.
