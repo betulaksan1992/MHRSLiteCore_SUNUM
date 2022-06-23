@@ -13,7 +13,7 @@ Göz bebeğimiz MHRSLite projesinin tüm hakları ben Betül Akşan'a,  103 saba
 - Projenin rol ve kullanıcı yönetimi Aspnet.Identity CORE ile yazılmıştır.
 - Aktivasyon, şifremi unuttum, randevu alındı gibi işlemlerde email gönderilmektedir.
 - Projenin FrontEnd işlemlerinde HealthTheme isimli hazır tema kullandık.
-- Projeyi 4 katman (Entities,DAL,BLL,,UI) olarak yazdık.
+- Projeyi 5 katman (Entities,DAL,BLL,,API,UI) olarak yazdık.
 - Projede UnitOfWork Pattern Design kullandık.
 - Projede hastaların göreceği ana ekran bulunmaktadır. Hasta sisteme giriş yaptıktan sağlık bakanlığının MHRS sistemindeki gibi randevu alma adımlarını izleyerek randevusunu alabilir.
 - Projenin Doktorun Hasta Çağırma paneli ve Admin paneli öğrencilere ödev olarak bırakılmıştır.
@@ -33,4 +33,8 @@ Ekran resimleri ve kaynak kodlardan bir parça aşağıda görebilirsiniz.
 ![MHRSLiteCore_11](https://user-images.githubusercontent.com/94163797/172587165-105d65f4-52d1-4605-81e4-3b05197876bf.png)
 ![MHRSLiteCore_12](https://user-images.githubusercontent.com/94163797/172587170-5cdced08-71e7-444b-8a65-fb166449779f.png)
 ![MHRSLiteCore_13](https://user-images.githubusercontent.com/94163797/172587182-e780c178-6c48-42d6-b607-f7b32189eed8.png)
+![image](https://user-images.githubusercontent.com/94163797/175303787-3c0e0e66-5a36-4243-a4ba-0e65828a2f1b.png)
+![image](https://user-images.githubusercontent.com/94163797/175303974-36d1f209-bd6c-48a0-8c8b-b32733639605.png)
+![image](https://user-images.githubusercontent.com/94163797/175304040-398bed73-33b5-4d1d-841d-9f7921b8595e.png)
+
 
